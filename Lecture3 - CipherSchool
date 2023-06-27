@@ -1,0 +1,9 @@
+		Fixed Referncing	
+		GST	
+		15.20%	
+			
+	Price	  Formula	Total     Payment
+	100    	D7 + ( D7 * E4)	   115.2
+	150   	D8 + ( D8 * E4)	   172.8
+	200   	D9 + (D9 * E4)	   230.4
+	300   	D10 + (D10 * E4)	 345.6
