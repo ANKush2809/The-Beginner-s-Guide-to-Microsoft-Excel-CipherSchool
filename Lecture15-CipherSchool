@@ -1,0 +1,10 @@
+ID	      CITY        	CITY D INDEX	      GENDER	            Education_level          	Major_Discipline           	experience
+14249	    city_90        	0.762              	Male                	Master                  	STEM                        	8
+9272	    city_21	         0.698            	Male	                Graduate                  STEM	                        20
+16287	    city_23        	0.624	              Male	                Graduate	                STEM	                          3
+24914    	city_21        	0.624	              Male	                 Graduate	                STEM	                          13
+21465      	city_21      	0.624		                                  Graduate	                STEM	                          <1
+21514      	city_21      	0.624		                                  Graduate	                STEM	                          6
+31806      	city_21      	0.624	              Male	                 Graduate	                STEM	                          <1
+7865	    city_21	        0.624	               Male	                High School              	STEM	                            4
+29033	    city_21         	0.624              	Male	              Master                   	STEM                          2
