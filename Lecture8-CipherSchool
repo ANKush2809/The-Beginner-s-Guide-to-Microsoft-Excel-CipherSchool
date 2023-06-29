@@ -1,0 +1,15 @@
+Text	                      name
+Whole Number	              500
+Decimal Number	            250.55
+Date	                      23-Jan-23
+Time	                      9:00 AM
+Percent	                    90%
+Email Address	              ak@gmail.com
+Website Address	            https://www.ak.com
+
+
+Employee ID without data Validation	          Employee ID with data Validation
+4568                                                	4564
+568                                                  	6523
+65894                                                	4897
+231546	                                              6555
