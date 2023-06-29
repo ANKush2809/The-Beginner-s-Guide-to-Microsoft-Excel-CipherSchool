@@ -1,0 +1,7 @@
+Fruit_Name	    Price		      Fruit_Name	        Price	            Seller		        Fruit_Name	            Seller
+Apple	          630		        Banana	              400	            Amazon	          	Banana	              Amazon
+Orange        	200		        Apple	                630	            Lyft		            Apple	                Lyft
+Banana        	400		        Kiwi	                540	            FlipKart	        	Kiwi	                FlipKart
+Grape	          460		        Pineapple	            530	            Mario		            Pineapple            	Mario
+Kiwi	          540		        Orange	              200	            Walmart		           Orange              	Walmart
+Pineapple      	530		        Grape	                460	            Fruit Seller		      Grape	              Fruit Seller
