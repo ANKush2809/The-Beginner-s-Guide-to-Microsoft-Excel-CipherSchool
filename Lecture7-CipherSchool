@@ -1,0 +1,27 @@
+EMP_NAME	              ITEM        	QUANTITY	          RATE	            AMOUNT
+Amir Bhar            	LED	              74	              9,800.00	        7,25,200.00
+Diya Sharm	          RAM              	22	              1,250.00	        27,500.00
+Rohan Shah	          DVD	              12               	1,450.00	        17,400.00
+Siya Sen	            LCD	              10               	7,800.00	         78,000.00
+Rohan Gupta	          KEY BOARD        	12	              1,690.00	          20,280.00
+Arjoon Singh        	MOUSE	            12	              520.00	            6,240.00
+Mohit Sharma	        LED	              14	              210.00	            2,940.00
+Anwesha Shara	        HDD              	33	              11,200.00	          3,69,600.00
+Veer Pandit	          LCD              	25	              3,300.00	          79,200.00
+Preetan Pandy	        HDD              	36	              12,200.00	          4,39,200.00
+Rohir Singh	          RAM              	28	              2,950.00	          82,600.00
+Punam Goutam	        HDD	              18	              1,490.00	            26,820.00
+Anksuh Kumar        	DVD	              15	              15,899.00	            1,25,000.00
+Aniket Prasad        	LED	               25	              8,25,000.00	          2,52,50,000.00
+
+
+ITEM	(Multiple Items)	
+		
+Row Labels	        Sum of QUANTITY	       Sum of RATE
+Anwesha Shara	          33	                  11200
+Mohit Sharma	          14	                  210
+Preetan Pandy	          36	                  12200
+Punam Goutam	          18	                  1490
+Rohan Shah	            12	                  1450
+Anksuh Kumar	          15	                  15899
+Grand Total	            128	                  42449
